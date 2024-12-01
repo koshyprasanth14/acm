@@ -37,6 +37,8 @@ The project uses the following libraries:
 - `numpy`  
 - `matplotlib`  
 - `keras`
+- `tensorflow`
+- `sklearn`
 
 ### Installation
 Install the required libraries using `pip`:
